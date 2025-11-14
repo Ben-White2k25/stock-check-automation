@@ -1,0 +1,9 @@
+stock-Check Automation & Dashboard (Beginner Project)
+
+Tools: Python • Power BI • GitHub
+
+Built a Python script that simulates checking stock lists for errors (duplicates, missing labels, mismatched quantities), reflecting common issues faced in warehouse operations.
+
+Created a Power BI dashboard visualising error types, frequency, and stock movements over time, demonstrating the ability to turn operational data into insights.
+
+Used GitHub to track changes, log issues, and document the project—mirroring real technical workflows and showing understanding of version control and structured problem reporting.
