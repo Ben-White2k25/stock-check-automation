@@ -1,0 +1,25 @@
+
+## Importing into Power BI
+1. Open Power BI Desktop  
+2. Click **Get Data → Text/CSV**  
+3. Select `stock_error_report.csv`  
+4. Load it into Power BI  
+5. Create visualisations such as:
+   - Bar chart: Count of error types
+   - Table: ItemID vs Issue
+   - Trend chart (if using multiple files)
+
+---
+
+## Version Control
+This project uses GitHub to:
+- Track changes to the script
+- Record issues and improvements
+- Document the progression of the project
+
+---
+
+## Future Improvements
+- Connect to real warehouse databases
+
+- Create automated email alerts for errors
