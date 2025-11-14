@@ -1,0 +1,5 @@
+ItemID,Issue,Details
+A102,Quantity mismatch,200 vs 198
+A105,Quantity mismatch,40 vs 39
+A103,Duplicate ItemID,Same ItemID appears multiple times
+A104,Missing Label,Label field is blank
